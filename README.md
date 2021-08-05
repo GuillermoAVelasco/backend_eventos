@@ -44,6 +44,7 @@ Parametros de Entrada:
 }
 
 Retorna: Registro Generado de Usuario.
+
 ---
 
 `POST /auth`
@@ -87,6 +88,7 @@ Crea Evento y cero o mas detalles. Para realizar esta acción es requerido un To
 }
 
 Retorna:Registro Generado de Eventos y sus Detalles.
+
 ---
 
 `GET /usuario/eventos/:pagina?`

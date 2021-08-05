@@ -62,7 +62,7 @@ Retorna: Token,usuario
 
 ---
 
-`POST /usuario/eventos`
+`POST /eventodetalles`
 
 Crea Evento y cero o mas detalles. Para realizar esta acción es requerido un Token.
 

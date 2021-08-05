@@ -1,0 +1,25 @@
+//Crear evento con detalles
+
+POST http://localhost:4000/eventodetalles
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiZ3ZlbGFzY28iLCJpZCI6MywiaWF0IjoxNjI4MjAzNDY5fQ.mRL5AMovhkaCeW23WmekdAuVLRbSjHi_yUGsKH5DuiM
+
+ { 
+    "titulo":"Evento",
+    "descripcion":"este es mi primer evento",
+    "destacado":false,
+    "imagenUrl":"www.primerevento.com", 
+    "localidad":"san juan",
+    "detalles":[
+        {
+            "fecha":"15/08/2021",
+            "hora":"17:00",
+            "precio":700
+        },
+        {
+            "fecha":"21/08/2021",
+            "hora":"21:00",
+            "precio":2000
+        }
+    ]
+}

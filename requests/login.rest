@@ -1,0 +1,12 @@
+
+//OBTENER TOKEN
+POST http://localhost:4000/auth
+Content-Type: application/json
+
+{
+    "usuario":"gvelasco",
+    "clave":"123"
+}
+
+
+###

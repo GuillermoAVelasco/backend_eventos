@@ -96,3 +96,5 @@ Retorna:Registro Generado de Eventos y sus Detalles.
 Lista los eventos generados por el Usuario paginados de a 3 por página. Para realizar esta acción es requerido un Token.
 
 ---
+
+Aclaracion en la Carpeta requests del Proyecto se encuentran unas pruebas con REST Clien las cuales pueden usarse para probar la Api. 

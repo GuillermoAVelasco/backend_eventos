@@ -2,7 +2,7 @@
 
 POST https://agile-stream-92176.herokuapp.com/eventodetalles
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiZ3ZlbGFzY28iLCJpZCI6MywiaWF0IjoxNjI4MjAzNDY5fQ.mRL5AMovhkaCeW23WmekdAuVLRbSjHi_yUGsKH5DuiM
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiZ3ZlbGFzY28iLCJpZCI6MiwiaWF0IjoxNjI4MjE0ODMyfQ.SuVOYTFw5yA6IYuVBFHZwFOURtDVaar49HlXYavTwt0
 
  { 
     "titulo":"Evento",

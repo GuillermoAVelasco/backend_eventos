@@ -1,6 +1,6 @@
 
 //OBTENER TOKEN
-POST http://localhost:4000/auth
+POST https://agile-stream-92176.herokuapp.com/auth
 Content-Type: application/json
 
 {

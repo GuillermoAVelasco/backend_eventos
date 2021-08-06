@@ -97,4 +97,4 @@ Lista los eventos generados por el Usuario paginados de a 3 por página. Para re
 
 ---
 
-## Aclaracion en la Carpeta requests del Proyecto se encuentran unas pruebas con REST Clien las cuales pueden usarse para probar la Api. 
+### Aclaracion en la Carpeta requests del Proyecto se encuentran unas pruebas con REST Clien las cuales pueden usarse para probar la Api. 
